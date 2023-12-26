@@ -1,4 +1,4 @@
-# Makefile to compile samall projects in fortran/C/C++
+# Makefile to compile small projects in fortran/C/C++
 #
 # Sources. See:
 #
